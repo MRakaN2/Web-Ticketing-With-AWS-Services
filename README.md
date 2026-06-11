@@ -36,8 +36,8 @@ Sistem ini sepenuhnya dibangun di atas ekosistem Amazon Web Services (AWS) tanpa
 musiverse-aws-ticketing/
 │
 ├── frontend/
-│   ├── index.html        # UI Utama (Pilih Tiket, Login, Simulasi Payment)
-│   └── admin.html        # Dashboard untuk menarik laporan data penjualan
+│   └── index.html        # UI Utama (Pilih Tiket, Login, Simulasi Payment)
+│ 
 │
 ├── backend/
 │   ├── lambda-kasir.py   # Kode sumber Lambda 'PenerimaPesananAPI'
