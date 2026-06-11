@@ -16,7 +16,7 @@ Sistem *web ticketing* berbasis *Cloud* (AWS) yang dirancang untuk menangani fen
 Sistem ini sepenuhnya dibangun di atas ekosistem Amazon Web Services (AWS) tanpa menggunakan arsitektur monolitik tradisional.
 
 ![Arsitektur Musiverse](arsitektur-musiverse.png)
-*(Catatan: Pastikan kamu mengunggah gambar diagram arsitektur yang sudah kita buat ke dalam folder `docs/arsitektur-musiverse.png` di repositorimu)*
+
 
 ### Daftar Layanan AWS yang Digunakan:
 1. **Amazon S3:** *Static Website Hosting* untuk antarmuka pembeli (`index.html`) dan admin (`admin.html`).
