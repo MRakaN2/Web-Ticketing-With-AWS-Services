@@ -1,6 +1,6 @@
 # Musiverse: Serverless Asynchronous Concert Ticketing
 
-Sistem *web ticketing* berbasis *Cloud* (AWS) yang dirancang untuk menangani fenomena "War Ticket" tanpa mengalami *downtime*. Proyek ini mengimplementasikan **Decoupled Architecture** (arsitektur saling lepas) menggunakan penampung antrean asinkron (Amazon SQS) untuk melindungi *database* dari hantaman lonjakan trafik secara tiba-tiba.
+Sistem web ticketing berbasis Cloud (AWS) yang dirancang untuk menangani fenomena "War Ticket" tanpa mengalami downtime. Proyek ini mengimplementasikan **Decoupled Architecture** (arsitektur saling lepas) menggunakan penampung antrean asinkron (Amazon SQS) untuk melindungi database dari hantaman lonjakan trafik secara tiba-tiba.
 
 ##  Fitur Utama
 * **Decoupled & Asynchronous:** Memisahkan beban kerja antarmuka pengguna (Frontend) dengan pemrosesan data (Backend).
